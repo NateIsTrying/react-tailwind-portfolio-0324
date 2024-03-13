@@ -15,9 +15,9 @@ function App() {
         </button>
 
       </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
+      <button><a href="#">See my work</a></button>
+
+      <h2>Scroll down to See more!</h2>
     </>
   )
 }

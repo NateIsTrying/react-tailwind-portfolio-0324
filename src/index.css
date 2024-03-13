@@ -73,6 +73,7 @@ button:focus-visible {
 
 .highlight {
   color: rgb(231, 51, 124);
+  font-weight: 700;
 }
 
 .intro {
